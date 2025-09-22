@@ -2,7 +2,7 @@ import  requests
 
 def login():
     data = {
-        "username": "wangmenghu@kuaishou.com",
+        "username": "u@kuaishou.com",
         "password": "wmh@19891203"
     }
 
